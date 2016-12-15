@@ -1,4 +1,3 @@
-using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,7 +6,7 @@ using System.Runtime.Serialization;
 using TelContractDTO;
 using DeviceManager;
 using Spring.Context.Support;
-
+using System;
 namespace TelContract
 {
     class Contract:IContract
